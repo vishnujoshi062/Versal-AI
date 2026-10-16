@@ -1,0 +1,3 @@
+[submodule "AIE-A-to-Z-Baremetal"]
+	path = AIE-A-to-Z-Baremetal
+	url = ../AIE-A-to-Z-Baremetal
