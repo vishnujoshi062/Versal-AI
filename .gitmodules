@@ -1,3 +1,3 @@
 [submodule "AIE-A-to-Z-Baremetal"]
 	path = AIE-A-to-Z-Baremetal
-	url = ../AIE-A-to-Z-Baremetal
+	url = https://github.com/vishnujoshi062/AIE_A_to_Z_Baremetal.git
