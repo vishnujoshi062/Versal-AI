@@ -1,3 +1,6 @@
 [submodule "AIE-A-to-Z-Baremetal"]
 	path = AIE-A-to-Z-Baremetal
 	url = https://github.com/vishnujoshi062/AIE_A_to_Z_Baremetal.git
+[submodule "RTL-HLS-AIE-LinuxBuild"]
+	path = RTL-HLS-AIE-LinuxBuild
+	url = https://github.com/vishnujoshi062/RTL-HLS-AIE-LinuxBuild.git
